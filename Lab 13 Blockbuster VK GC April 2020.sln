@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 13 Blockbuster VK GC April 2020", "Lab 13 Blockbuster VK GC April 2020\Lab 13 Blockbuster VK GC April 2020.csproj", "{0D1CC80F-285C-4F1B-8690-79FCC14845BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1CC80F-285C-4F1B-8690-79FCC14845BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1CC80F-285C-4F1B-8690-79FCC14845BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1CC80F-285C-4F1B-8690-79FCC14845BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1CC80F-285C-4F1B-8690-79FCC14845BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F9E6E8-70AE-4D03-84A2-2C8D94427791}
+	EndGlobalSection
+EndGlobal
